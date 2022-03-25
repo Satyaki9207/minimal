@@ -1,6 +1,20 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Satyaki Ray </p>
+logo: /assets/img/my_pic2.jpg
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/satyaki-ray-81544a68/">LinkedIn</a> |
+  <a href="https://github.com/Satyaki9207">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Also handing the Big Data from real-time insurance claims.
+  Worked with General Motors for 3+ years on predictive maintenance.
+  Working in health isnurance domain for the past 1 year.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
